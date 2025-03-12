@@ -7,4 +7,4 @@
 I'm a 20 year old coding enthusiast with some knowledge in Software Engineering!
 
 ## 🛠 Skills
-Flutter, Dart, Javascript, TypeScript, Python, HTML, CSS, Firebase, Node, MongoDB, SQL
+Flutter, Salesforce, Apex ,Dart, Javascript, TypeScript, Python, HTML, CSS, Firebase, Node, MongoDB, SQL
